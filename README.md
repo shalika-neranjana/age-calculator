@@ -14,7 +14,7 @@ This project is an Age Calculator web application created by Shalika Neranjana. 
 ## Setup
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/username/age-calculator.git
+    git clone https://github.com/shalika-neranjana/age-calculator.git
     ```
 2. Navigate to the project directory.
     ```bash
